@@ -55,9 +55,8 @@ float GetCartoletas(PlayerData player) {
       if( r0>=2         ){ var = 0.4188*p - 0.2125*c; break; }
 
     case  2:
-      if( r0==1 && d==1 ){ var = 0.4221*p - 0.2964*c; break; }
+      if( r0==1         ){ var = 0.4221*p - 0.2964*c + 0.2813*u; break; }
       if( r0>=2 && d==1 ){ var = 0.3589*p - 0.2272*c; break; }
-      if( r0==1 && d==0 ){ var = 0.4221*p - 0.2964*c + 0.2813*u; break; }
       if( r0>=2 && d==0 ){ var = 0.3551*p - 0.1137*c - 0.0284*u; break; }
 
     case  3:
