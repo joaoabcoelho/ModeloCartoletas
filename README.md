@@ -22,3 +22,13 @@ Contém cerca de mil exemplos de jogadores do CartolaFC 2018 com todas as variá
 ## TestCartoleta.C
 
 Um exemplo de como aplicar o modelo aos dados acima. Como resultado, são informadas o erro médio (accuracy) da previsão e o desvio padrão da distribuição de erros (precision). A precisão do modelo é de aproximadamente C$0.08.
+
+## Performance
+
+Testamos o nosso modelo com dados do CartolaFC 2018 e obtivemos um resultado muito melhor que um modelo antigo mais simples de 2018. O novo modelo tem uma precisão de aproximadamente C$0.08.
+
+![Alt text](img/NovaValorizacao.png?raw=true "Comparação da precisão dos modelos 2018 e 2019")
+
+Também testamos o impacto de remover cada uma das variáveis. Mostramos aqui as principais delas para diferentes rodadas.
+
+![Alt text](img/Importancia.png?raw=true "Impacto da remoção de algumas variáveis do modelo")
