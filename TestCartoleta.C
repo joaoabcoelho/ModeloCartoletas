@@ -14,7 +14,7 @@ int main(){
 
   string line;
 
-  string datafilename = "DadosExemplo.csv";
+  string datafilename = "DadosExemplo_v2.csv";
 
   ifstream datafile(datafilename.c_str());
 
@@ -23,7 +23,8 @@ int main(){
     return 1;
   }
 
-  vector<float> erros;
+  vector<float> valorizacoes;
+  vector<Atleta> atletas;
 
   getline(datafile, line);
   
@@ -34,30 +35,40 @@ int main(){
     char delim = ',';
     string buffer;
     
-    int    jogadorId;
+    int    atleta_id;
     float  valorizacao;
-    string posicao;
+    string clube, posicao, nome;
 
-    PlayerData player;
+    Atleta atleta;
     
-    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%d", &jogadorId);;
-    getline(ss, buffer, delim); posicao = buffer;  
-    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%d", &player.rodadaAtual);;
-    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%d", &player.rodadaInicial);;
-    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%f", &player.pontos);;
-    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%f", &player.preco);;
-    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%f", &player.ultima);;
-    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%f", &player.media);;
-    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%d", &player.jogos);;
-    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%d", &player.desfalques);;
-    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%f", &valorizacao);;
+    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%d", &atleta_id);
+    getline(ss, buffer, delim); clube = buffer;
+    getline(ss, buffer, delim); posicao = buffer;
+    getline(ss, buffer, delim); nome = buffer;
+    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%d", &atleta.rodada_inicial);
+    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%d", &atleta.jogos);
+    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%f", &atleta.preco);
+    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%f", &atleta.preco_medio);
+    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%f", &atleta.media);
+    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%f", &atleta.pontos);
+    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%f", &valorizacao);
     
-    float previsao = GetCartoletas(player);
-    
-    erros.push_back(previsao - valorizacao);
+    atletas.push_back(atleta);
+    valorizacoes.push_back(valorizacao);
     
   }
   
+  int rodada = 5;
+  
+  float fator_inflacao = GetFatorInflacao(atletas, rodada);
+  
+  vector<float> erros;  
+  int n_atletas = atletas.size();
+  for(int i=0; i<n_atletas; i++){
+    float previsao = GetValorizacao(atletas[i], rodada, fator_inflacao);
+    erros.push_back(previsao - valorizacoes[i]);
+  }
+    
   float erroMedio = accumulate( erros.begin(), erros.end(), 0.0)/erros.size();
 
   float sq_sum  = std::inner_product(erros.begin(), erros.end(), erros.begin(), 0.0);
