@@ -14,7 +14,7 @@ int main(){
 
   string line;
 
-  string datafilename = "DadosExemplo_v2.csv";
+  string datafilename = "DadosExemplo.csv";
 
   ifstream datafile(datafilename.c_str());
 
