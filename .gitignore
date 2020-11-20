@@ -1,2 +1,3 @@
 *.o
 TestCartoleta
+__pycache__
