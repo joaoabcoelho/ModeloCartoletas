@@ -72,7 +72,7 @@ int main(){
   float erroMedio = accumulate( erros.begin(), erros.end(), 0.0)/erros.size();
 
   float sq_sum  = std::inner_product(erros.begin(), erros.end(), erros.begin(), 0.0);
-  float erroRMS = sqrt(sq_sum / erros.size() - erroMedio * erroMedio);
+  float erroRMS = sqrt(sq_sum / erros.size());
   
   cout << "O erro da previsão foi approximadamente: " << erroMedio << " +/- " << erroRMS << endl;
   
