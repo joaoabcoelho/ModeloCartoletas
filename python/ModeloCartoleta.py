@@ -29,7 +29,7 @@ def GetValorizacao(atleta, rodada, fator_inflacao):
     kc = 5
     kp = 1 + 4/(g+1)
 
-  if rodada>4: ka *= g / (g+1)
+  if rodada>5: ka *= g / (g+1)
 
   if g==0: a = 0
 

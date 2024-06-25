@@ -16,22 +16,21 @@ data = np.loadtxt(datafilename, delimiter=',', dtype=str)
 
 for row in data[1:]:
   atleta = Atleta()
-  atleta_id = int(row[0])
-  clube = row[1]
-  posicao = row[2]
-  nome = row[3]
-  atleta.jogos = int(row[4])
-  atleta.preco = float(row[5])
-  atleta.preco_medio = float(row[6])
-  atleta.media = float(row[7])
-  atleta.pontos = float(row[8])
-  valorizacao = float(row[9])
+  rodada = int(row[0])
+  atleta_id = int(row[1])
+  clube = row[2]
+  posicao = row[3]
+  nome = row[4]
+  atleta.jogos = int(row[5])
+  atleta.preco = float(row[6])
+  atleta.preco_medio = float(row[7])
+  atleta.media = float(row[8])
+  atleta.pontos = float(row[9])
+  valorizacao = float(row[10])
   
   atletas.append(atleta);
   valorizacoes.append(valorizacao);
 
-
-rodada = 5
 
 fator_inflacao = GetFatorInflacao(atletas, rodada)
 

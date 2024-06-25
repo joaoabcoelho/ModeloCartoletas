@@ -25,6 +25,8 @@ int main(){
 
   vector<float> valorizacoes;
   vector<Atleta> atletas;
+  vector<string> names;
+  int rodada;
 
   getline(datafile, line);
 
@@ -41,6 +43,7 @@ int main(){
 
     Atleta atleta;
 
+    getline(ss, buffer, delim); sscanf(buffer.c_str(), "%d", &rodada);
     getline(ss, buffer, delim); sscanf(buffer.c_str(), "%d", &atleta_id);
     getline(ss, buffer, delim); clube = buffer;
     getline(ss, buffer, delim); posicao = buffer;
@@ -54,10 +57,9 @@ int main(){
 
     atletas.push_back(atleta);
     valorizacoes.push_back(valorizacao);
+    names.push_back(clube+","+posicao+","+nome);
 
   }
-
-  int rodada = 5;
 
   float fator_inflacao = GetFatorInflacao(atletas, rodada);
 
@@ -66,6 +68,10 @@ int main(){
   for(int i=0; i<n_atletas; i++){
     float previsao = GetValorizacao(atletas[i], rodada, fator_inflacao);
     erros.push_back(previsao - valorizacoes[i]);
+    if(abs(erros[i])>0.01){
+      cout << names[i] << ": previsão - real = (" << previsao << ") - (" << valorizacoes[i]
+           << ") = " << erros[i] << endl;
+    }
   }
 
   float erroMedio = accumulate( erros.begin(), erros.end(), 0.0)/erros.size();
