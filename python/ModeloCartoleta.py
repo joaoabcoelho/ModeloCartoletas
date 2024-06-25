@@ -7,7 +7,6 @@ class Atleta:
     self.preco_medio = 5
     self.media = 0
     self.jogos = 0
-    self.rodada_inicial = 1
 
 
 def GetValorizacao(atleta, rodada, fator_inflacao):
@@ -16,19 +15,28 @@ def GetValorizacao(atleta, rodada, fator_inflacao):
   r  = rodada
   s  = fator_inflacao
 
-  r0 = atleta.rodada_inicial
   p  = atleta.pontos
   a  = atleta.media
   g  = atleta.jogos
   cm = atleta.preco_medio
 
-  # Média de pontos por rodada
-  am = (g*a+p) / (r-r0+1)
+  kp = 1.5 * (1 + 1/(g+1))
+  ka = 2 + g/2
+  kc = 7 - g/2
 
-  novo_preco = s * (p + 4*am + 5*cm)
+  if g>4:
+    ka = 4
+    kc = 5
+    kp = 1 + 4/(g+1)
 
-  # Assegura um preço mínimo de C$0.75
-  if novo_preco < 0.75: novo_preco = 0.75
+  if rodada>4: ka *= g / (g+1)
+
+  if g==0: a = 0
+
+  novo_preco = s * (kp * p + ka * a + kc * cm)
+
+  # Assegura um preço mínimo de C$0.7
+  if novo_preco < 0.7: novo_preco = 0.7
 
   return novo_preco - atleta.preco
 

@@ -20,13 +20,12 @@ for row in data[1:]:
   clube = row[1]
   posicao = row[2]
   nome = row[3]
-  atleta.rodada_inicial = int(row[4])
-  atleta.jogos = int(row[5])
-  atleta.preco = float(row[6])
-  atleta.preco_medio = float(row[7])
-  atleta.media = float(row[8])
-  atleta.pontos = float(row[9])
-  valorizacao = float(row[10])
+  atleta.jogos = int(row[4])
+  atleta.preco = float(row[5])
+  atleta.preco_medio = float(row[6])
+  atleta.media = float(row[7])
+  atleta.pontos = float(row[8])
+  valorizacao = float(row[9])
   
   atletas.append(atleta);
   valorizacoes.append(valorizacao);
