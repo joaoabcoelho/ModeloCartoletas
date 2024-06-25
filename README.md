@@ -27,7 +27,7 @@ Um exemplo de como aplicar o modelo aos dados acima. Como resultado, são inform
 
 ## Performance (modelo 2023)
 
-O modelo 2024 também tem sido testado e funciona tão nem quanto, porém ainda falta entender como funciona a valorização quando o jogador toma cartão no banco.
+O modelo 2024 também tem sido testado e funciona tão bem quanto, porém ainda falta entender como funciona a valorização quando o jogador toma cartão no banco.
 
 Testamos o nosso modelo com dados do CartolaFC entre 2018 e 2020 e obtivemos resultados quase perfeitos. Os erros remanescentes parecem ser relacionados a alguns fatores minoritários como a definição do preço mínimo do jogador, a estratégia de arredondamento, e alguns erros da base de dados quando atletas são retirados do mercado no meio de uma rodada.
 
