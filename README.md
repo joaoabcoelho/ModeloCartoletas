@@ -1,6 +1,6 @@
 # ModeloCartoletas
 
-Essa é uma implementação do modelo exato de valorização do Cartola e utilizado pelo CartolaAnalitico. Uma descrição mais aprofundada do modelo pode ser encontrada [aqui](https://medium.com/cartolaanalitico/a-f%C3%B3rmula-de-valoriza%C3%A7%C3%A3o-8064b82b0f0 "A fórmula de valorização").
+Essa é uma implementação do modelo exato de valorização do Cartola e utilizado pelo CartolaAnalitico. Uma descrição mais aprofundada do modelo pode ser encontrada [aqui](https://medium.com/cartolaanalitico/a-f%C3%B3rmula-de-valoriza%C3%A7%C3%A3o-2025-51f19d97fb4a).
 
 Na versão v3, implementamos o novo modelo válido a partir de 2025. A principal mudança é que agora a fórmula não depende mais da rodada, mas apenas do número de jogos.
 
