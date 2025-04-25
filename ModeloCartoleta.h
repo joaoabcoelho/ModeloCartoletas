@@ -10,7 +10,7 @@ struct Atleta {
 
 };
 
-float GetValorizacao(Atleta atleta, int rodada, float fator_inflacao) {
+float GetValorizacao(Atleta atleta, float fator_inflacao) {
 
   // Abreviacoes
   float s  = fator_inflacao;
@@ -20,21 +20,18 @@ float GetValorizacao(Atleta atleta, int rodada, float fator_inflacao) {
   float g  = atleta.jogos;
   float cm = atleta.preco_medio;
 
-  float kp = 1.5 * (1 + 1/(g+1));
-  float ka = 2 + g/2;
-  float kc = 7 - g/2;
+  a = (a*g + p) / (g+1);
+  g += 1;
 
-  if(g>4){
+  float ka = (3 + g)/2;
+  float kc = (15 - g)/2;
+
+  if(g>5){
     ka = 4;
     kc = 5;
-    kp = 1 + 4/(g+1);
   }
 
-  if(rodada>5) ka *= g / (g+1);
-
-  if(g==0) a = 0;
-
-  float novo_preco = s * (kp * p + ka * a + kc * cm);
+  float novo_preco = s * (p + ka * a + kc * cm);
 
   // Assegura um preço mínimo de C$0.7
   if(novo_preco < 0.7) novo_preco = 0.7;
@@ -43,7 +40,7 @@ float GetValorizacao(Atleta atleta, int rodada, float fator_inflacao) {
 
 }
 
-float GetFatorInflacao(std::vector<Atleta> atletas, int rodada) {
+float GetFatorInflacao(std::vector<Atleta> atletas) {
 
   int n_atletas = atletas.size();
 
@@ -54,7 +51,7 @@ float GetFatorInflacao(std::vector<Atleta> atletas, int rodada) {
 
   for(int i=0; i<n_atletas; i++){
     c_mean += atletas[i].preco;
-    denom += GetValorizacao(atletas[i], rodada, 1);
+    denom += GetValorizacao(atletas[i], 1);
   }
 
   c_mean /= n_atletas;
@@ -68,7 +65,7 @@ float GetFatorInflacao(std::vector<Atleta> atletas, int rodada) {
   // efeitos residuais devido ao preço mínimo
   float val_media = 0;
   for(int i=0; i<n_atletas; i++){
-    val_media += GetValorizacao(atletas[i], rodada, fator_inflacao);
+    val_media += GetValorizacao(atletas[i], fator_inflacao);
   }
   val_media /= n_atletas;
 

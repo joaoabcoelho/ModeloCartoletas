@@ -16,7 +16,6 @@ data = np.loadtxt(datafilename, delimiter=',', dtype=str)
 
 for row in data[1:]:
   atleta = Atleta()
-  rodada = int(row[0])
   atleta_id = int(row[1])
   clube = row[2]
   posicao = row[3]
@@ -32,12 +31,12 @@ for row in data[1:]:
   valorizacoes.append(valorizacao);
 
 
-fator_inflacao = GetFatorInflacao(atletas, rodada)
+fator_inflacao = GetFatorInflacao(atletas)
 
 erros = []
 n_atletas = len(atletas)
 for i in range(n_atletas):
-  previsao = GetValorizacao(atletas[i], rodada, fator_inflacao)
+  previsao = GetValorizacao(atletas[i], fator_inflacao)
   erros.append(previsao - valorizacoes[i])
 
 erroMedio = np.mean(erros)

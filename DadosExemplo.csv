@@ -1,337 +1,302 @@
 rodada,id,clube,posicao,nome,jogos,preco,preco_medio,media,pontos,valorizacao
-10,37656,Fluminense,gol,Fábio,8,8.68,10.12,3.00,2.00,-0.37
-10,38394,Athlético-PR,zag,Thiago Heleno,6,5.00,5.90,2.17,4.20,0.64
-10,38398,Fluminense,mei,Renato Augusto,5,5.61,6.62,2.36,1.40,0.00
-10,38959,Atlético-GO,ata,Vagner Love,4,5.45,5.33,3.30,0.00,-0.63
-10,41929,Grêmio,tec,Renato Gaúcho,7,8.48,9.37,3.91,1.45,-0.36
-10,42222,Vitória,ata,Osvaldo,6,5.05,5.34,2.15,2.30,-0.16
-10,42411,Athlético-PR,tec,Cuca,9,10.44,11.12,5.75,3.25,0.04
-10,45125,Flamengo,tec,Tite,9,10.45,10.93,5.90,5.52,0.39
-10,50347,Atlético-MG,ata,Alan Kardec,3,3.68,4.18,0.50,0.80,-0.33
-10,50353,Fortaleza,zag,Titi,6,3.57,4.10,1.60,9.50,1.73
-10,51413,Cuiabá,gol,Walter,7,4.33,4.15,2.00,9.00,1.02
-10,51772,Bahia,mei,Everton Ribeiro,8,9.81,9.86,5.23,1.40,-0.75
-10,52271,Internacional,mei,Fernando,4,6.48,7.20,2.73,-0.30,-0.76
-10,52827,Flamengo,zag,David Luiz,3,6.67,7.21,2.93,10.00,1.89
-10,61188,Juventude,ata,Gilberto,4,3.48,4.74,0.03,1.60,-0.02
-10,62020,Fluminense,ata,Douglas Costa,5,4.72,5.82,1.56,0.80,-0.10
-10,68708,Botafogo,mei,Eduardo,3,7.10,8.57,0.10,0.20,-0.91
-10,68954,Criciúma,mei,Marquinhos Gabriel,6,3.87,4.37,1.65,0.70,-0.16
-10,68991,Fortaleza,mei,Lucas Sasha,4,5.62,5.56,2.60,-0.90,-1.15
-10,69138,Athlético-PR,ata,Pablo,8,6.18,7.42,2.86,-1.30,-0.30
-10,69325,Internacional,mei,Aránguiz,3,5.58,6.30,0.87,-1.30,-1.11
-10,69686,Grêmio,ata,João Pedro Galvão,7,3.58,4.03,1.34,-0.60,-0.48
-10,70164,São Paulo,mei,Lucas Moura,3,18.70,18.17,9.20,0.80,-2.43
-10,70332,Grêmio,gol,Marchesín,3,6.66,6.15,4.00,1.00,-0.68
-10,70360,Bragantino,ata,Eduardo Sasha,6,7.83,9.23,4.00,6.30,1.21
-10,70666,Cuiabá,zag,Marllon,6,3.16,3.53,1.37,5.20,0.79
-10,70916,Fluminense,lat,Diogo Barbosa,4,3.03,3.91,0.25,1.60,-0.02
-10,70944,Internacional,mei,Bruno Henrique,7,5.31,6.34,2.24,4.70,0.73
-10,70958,Juventude,mei,Jean Carlos,3,9.85,8.38,8.50,9.20,1.25
-10,71038,Atlético-GO,zag,Pedro Henrique,4,3.99,3.42,2.90,-1.00,-0.81
-10,71227,Vasco,zag,Maicon,8,4.66,4.16,2.62,3.60,-0.08
-10,71536,São Paulo,mei,Luiz Gustavo,3,5.40,5.45,1.67,0.80,-0.76
-10,71631,Palmeiras,gol,Weverton,9,11.81,12.27,5.56,6.00,-0.18
-10,71680,Vitória,lat,Raúl Cáceres,0,3.00,3.00,0.00,8.60,3.06
-10,71898,Fluminense,mei,Gabriel Pires,0,4.00,4.00,0.00,1.50,0.21
-10,72391,Fluminense,tec,Fernando Diniz,8,9.07,10.35,3.86,2.21,-0.17
-10,69705,Athlético-PR,mei,Nikão,6,9.42,9.06,5.97,4.60,0.04
-10,38913,Juventude,mei,Nenê,6,4.68,4.45,2.43,2.40,-0.23
-10,63289,Grêmio,mei,Edenílson,4,5.51,6.18,2.27,-1.30,-0.87
-10,72532,Atlético-GO,lat,Maguinho,6,5.01,4.68,3.38,3.70,0.28
-10,72775,Athlético-PR,mei,Fernandinho,8,8.05,7.64,3.97,4.00,-0.52
-10,72951,Internacional,zag,Mercado,5,4.89,5.57,2.32,5.50,0.91
-10,73620,Cuiabá,zag,Bruno Alves,5,4.99,4.07,2.74,4.70,-0.15
-10,78117,Bahia,ata,Everaldo,8,7.70,6.28,5.19,10.50,0.73
-10,78248,Corinthians,zag,Gustavo Henrique,4,6.82,8.58,1.55,0.50,-0.50
-10,78450,Criciúma,tec,Cláudio Tencati,6,5.73,4.87,4.41,4.50,0.30
-10,78580,Cuiabá,ata,Jonathan Cafu,6,4.72,3.64,2.42,3.20,-0.64
-10,78715,Cruzeiro,mei,Ramiro,7,3.66,4.14,1.41,2.00,0.05
-10,78850,Grêmio,lat,Reinaldo,1,8.13,7.56,4.70,-0.20,-1.06
-10,78855,Fluminense,zag,Thiago Santos,1,2.77,2.88,0.20,-2.30,-0.98
-10,79437,Juventude,tec,Roger Machado,7,6.25,5.81,4.16,7.50,0.86
-10,79631,Fluminense,ata,Cano,7,9.34,10.20,3.66,2.80,-0.53
-10,79701,Cruzeiro,mei,Lucas Silva,8,4.84,5.61,1.62,3.40,0.17
-10,79702,Fluminense,zag,Antônio Carlos,2,2.76,2.78,0.85,1.00,-0.12
-10,80129,Juventude,mei,Jadson,5,9.59,8.43,8.20,6.10,0.73
-10,80196,Fortaleza,mei,Yago Pikachu,7,3.53,4.42,0.85,0.70,-0.14
-10,80287,São Paulo,ata,Luciano,8,10.56,10.47,6.42,3.00,-0.25
-10,80313,Bahia,lat,Gilberto,2,7.46,7.20,4.25,1.50,-0.37
-10,81150,Palmeiras,lat,Mayke,7,8.83,8.42,5.17,4.60,-0.14
-10,81798,Vasco,ata,Rossi,8,4.78,5.18,1.85,1.20,-0.34
-10,81845,São Paulo,mei,Alisson,9,5.63,6.23,2.85,3.90,0.44
-10,81881,Fortaleza,gol,João Ricardo,8,7.62,7.71,4.65,7.00,0.83
-10,81952,Vitória,mei,Willian Oliveira,7,8.58,6.24,6.53,18.10,1.95
-10,82455,Palmeiras,mei,Zé Rafael,5,4.80,6.62,0.26,3.30,0.32
-10,82627,Flamengo,ata,Luiz Araújo,9,8.77,7.79,5.88,2.50,-0.52
-10,82628,Fortaleza,lat,Tinga,8,4.26,4.37,3.04,5.90,1.08
-10,82766,São Paulo,mei,Wellington Rato,1,11.00,11.50,0.50,0.40,-1.12
-10,83257,Flamengo,ata,Gabriel,3,8.22,8.82,3.13,0.00,-0.87
-10,83528,Flamengo,zag,Léo Pereira,8,6.71,7.98,2.61,0.00,-0.34
-10,83817,Cuiabá,ata,Clayson,7,5.55,4.43,2.65,2.10,-1.07
-10,84428,Cuiabá,mei,Fernando Sobral,6,6.44,5.37,4.03,1.20,-0.93
-10,84674,Bragantino,mei,Lucas Evangelista,5,7.74,9.07,2.94,3.10,0.08
-10,85004,Bahia,gol,Marcos Felipe,8,7.93,7.71,5.44,0.20,-0.39
-10,85277,Botafogo,lat,Damián Suárez,7,5.28,5.03,3.94,4.10,0.56
-10,85465,Athlético-PR,mei,Alex Santana,3,3.48,4.47,-0.10,-1.30,-0.65
-10,85626,Vasco,zag,Léo,9,4.19,3.73,1.76,0.10,-0.93
-10,85931,Internacional,mei,Hyoran,2,5.34,5.40,2.15,4.60,0.61
-10,86410,Vasco,lat,Victor Luis,3,5.30,3.34,4.17,-0.80,-1.70
-10,86485,Fluminense,ata,Keno,3,7.26,7.78,2.20,0.00,-0.96
-10,86508,São Paulo,gol,Jandrei,2,7.03,6.16,5.00,1.50,-0.56
-10,86684,Criciúma,zag,Rodrigo,5,5.22,4.04,3.92,3.20,-0.22
-10,86686,Botafogo,mei,Tchê Tchê,7,4.24,4.83,1.47,1.30,-0.19
-10,86713,Criciúma,lat,Jonathan,3,2.93,3.21,0.97,4.80,0.86
-10,86757,Flamengo,ata,Everton,5,7.99,6.37,7.14,1.50,-0.45
-10,86777,Botafogo,mei,Danilo Barbosa,8,7.97,7.79,5.16,1.40,-0.29
-10,86859,Fortaleza,mei,José Welison,7,4.21,4.90,1.84,0.90,-0.03
-10,87008,Vasco,gol,Léo Jardim,9,7.03,7.03,3.12,1.00,-0.84
-10,87009,Grêmio,mei,Nathan,2,4.56,4.69,1.00,0.50,-0.52
-10,81551,Internacional,lat,Hugo Mallo,3,6.87,5.28,6.53,5.00,0.33
-10,87470,Bahia,mei,Thaciano,7,6.19,6.44,3.05,0.80,-0.48
-10,87660,Vasco,mei,Galdames,9,5.15,5.41,2.60,-1.70,-0.74
-10,87999,Atlético-MG,mei,Gustavo Scarpa,8,10.88,12.27,5.16,13.10,1.90
-10,88033,Cuiabá,zag,Alan Empereur,6,2.90,2.71,1.03,6.40,0.62
-10,88393,Flamengo,lat,Ayrton Lucas,6,8.90,7.55,5.53,1.30,-1.29
-10,89224,Criciúma,mei,Barreto,6,4.49,3.98,3.50,0.00,-0.35
-10,89256,Flamengo,mei,Gerson,9,5.45,5.72,2.85,14.90,2.29
-10,89273,Grêmio,lat,João Pedro,4,4.64,5.46,1.62,2.50,0.15
-10,89275,Cruzeiro,lat,William,8,10.38,9.76,6.43,26.40,3.85
-10,89467,Juventude,ata,Erick,7,3.80,3.84,2.39,0.00,-0.23
-10,89646,Vitória,mei,Rodrigo Andrade,3,3.53,3.35,2.23,0.90,-0.17
-10,89840,São Paulo,ata,Calleri,8,11.48,12.32,4.95,2.40,-0.77
-10,89846,Grêmio,mei,Cristaldo,7,9.15,10.10,4.06,1.50,-0.47
-10,89883,Grêmio,mei,Dodi,6,3.03,3.73,0.97,0.50,-0.08
-10,90285,Flamengo,ata,Bruno Henrique,8,8.11,8.51,4.80,2.50,0.09
-10,90309,Vasco,ata,David,8,7.90,8.35,4.30,0.00,-0.51
-10,90588,Juventude,mei,Caíque,6,4.04,3.70,2.38,3.10,0.05
-10,90634,Cuiabá,mei,Lucas Mineiro,5,2.66,2.80,1.64,2.70,0.44
-10,90703,Vitória,mei,Matheuzinho,8,8.69,7.39,5.99,16.50,1.94
-10,90715,Atlético-GO,ata,Luiz Fernando,7,9.37,8.04,5.43,0.90,-1.52
-10,90943,Juventude,zag,Zé Marcos,4,2.37,2.30,1.78,8.40,1.81
-10,90947,Fortaleza,zag,Cardona,2,4.25,3.61,4.20,6.20,1.25
-10,91101,Atlético-GO,gol,Ronaldo,8,3.96,3.47,2.69,0.20,-0.43
-10,91254,Grêmio,mei,Carballo,3,2.93,3.62,0.03,-0.30,-0.41
-10,91573,São Paulo,zag,Arboleda,8,7.70,7.89,4.78,3.60,0.29
-10,91607,Palmeiras,ata,Rony,9,7.04,7.43,3.31,12.80,1.64
-10,91706,Cruzeiro,lat,Marlon,7,9.09,10.31,2.89,7.30,0.32
-10,91866,Cruzeiro,zag,Zé Ivaldo,7,5.34,4.34,3.26,7.40,0.39
-10,91908,Grêmio,ata,Pavón,4,7.63,7.95,4.07,1.00,-0.56
-10,92149,Internacional,ata,Alario,3,3.75,5.12,-0.83,0.00,-0.39
-10,92180,Atlético-GO,tec,Jair Ventura,8,5.41,4.72,3.29,3.18,-0.24
-10,92237,Grêmio,zag,Rodrigo Ely,4,4.14,4.31,2.18,5.60,0.86
-10,93478,Internacional,ata,Wanderson,5,5.48,6.89,1.26,2.50,0.07
-10,93716,Vasco,lat,Paulo Henrique,9,6.02,5.15,3.03,1.20,-1.05
-10,93790,Botafogo,mei,Marlon Freitas,8,5.25,4.30,3.14,0.00,-1.02
-10,93882,Bragantino,gol,Cleiton,8,6.56,6.73,3.56,3.00,0.00
-10,94044,Botafogo,gol,John Victor,6,6.87,7.22,3.87,4.00,0.34
-10,94067,Bragantino,mei,Matheus Fernandes,4,9.01,7.84,6.70,12.60,1.79
-10,94509,Palmeiras,mei,Raphael Veiga,8,10.76,13.98,2.76,14.30,2.25
-10,94583,Flamengo,ata,Pedro,9,12.75,13.75,6.89,7.90,0.81
-10,94845,Atlético-MG,mei,Battaglia,5,1.39,3.07,-0.78,1.10,0.50
-10,90449,Bahia,mei,Rezende,8,3.55,4.44,1.21,-0.30,-0.17
-10,93988,Fortaleza,ata,Breno Lopes,6,6.83,7.01,4.42,0.40,-0.24
-10,94853,Internacional,tec,Eduardo Coudet,7,9.06,9.49,4.88,8.02,0.86
-10,94968,Bragantino,lat,Juninho Capixaba,7,11.58,11.87,5.67,7.20,0.08
-10,95131,Juventude,ata,Gabriel Taliari,1,2.70,2.85,0.00,0.50,-0.15
-10,95464,Botafogo,mei,Gregore,8,3.13,4.24,1.15,3.30,0.76
-10,95466,São Paulo,lat,Igor Vinícius,8,6.25,4.97,4.97,1.00,-0.56
-10,95556,Corinthians,mei,Raniele,8,7.65,6.92,4.05,0.60,-1.19
-10,95662,Atlético-GO,mei,Lucas Kal,5,3.25,3.98,1.08,1.20,0.06
-10,95738,Criciúma,lat,Trauco,2,3.42,4.20,0.10,9.70,2.39
-10,95878,Criciúma,zag,Tobias Figueiredo,2,2.43,2.67,0.10,0.50,-0.20
-10,96089,Cruzeiro,mei,Machado,1,3.22,3.61,0.00,0.00,-0.18
-10,96340,Fluminense,mei,Lima,7,8.10,8.86,4.12,6.20,0.71
-10,96610,Cruzeiro,mei,Matheus Pereira,7,12.21,9.09,8.01,2.60,-2.18
-10,96652,Flamengo,mei,Allan,6,4.59,5.09,2.48,1.20,0.05
-10,96678,Internacional,lat,Bustos,6,7.34,7.22,3.87,7.60,0.61
-10,96725,Atlético-MG,lat,Saravia,8,7.09,7.19,4.62,5.70,0.77
-10,96966,Cruzeiro,ata,Arthur Gomes,5,6.11,5.72,3.84,1.20,-0.49
-10,97450,Corinthians,ata,Gustavo Mosquito,6,5.31,4.59,2.83,0.00,-1.08
-10,97520,Atlético-GO,mei,Shaylon,8,4.58,5.20,2.30,7.80,1.31
-10,97547,Bahia,ata,Estupiñán,5,4.16,4.99,1.64,0.00,-0.22
-10,97653,Palmeiras,zag,Murilo,8,11.98,12.77,5.04,-0.30,-1.44
-10,97867,Flamengo,zag,Léo Ortiz,4,8.52,9.74,2.77,1.70,-0.66
-10,98022,Athlético-PR,mei,Erick,9,7.70,7.67,5.10,2.80,0.16
-10,98280,Botafogo,zag,Bastos,9,4.93,4.32,4.23,10.90,1.82
-10,98484,Bahia,zag,Kanu,5,3.35,3.38,2.16,2.20,0.25
-10,98517,Bahia,mei,Jean Lucas,8,8.14,6.72,5.27,6.80,-0.09
-10,98706,Atlético-MG,mei,Pedrinho,4,3.84,4.73,0.50,2.70,0.06
-10,98909,Athlético-PR,ata,Cuello,8,5.77,5.43,3.65,9.10,1.13
-10,99267,Fortaleza,mei,Pochettino,7,7.65,7.58,4.89,3.60,0.18
-10,99440,Atlético-GO,mei,Baralhas,7,5.36,4.78,3.46,1.30,-0.44
-10,99552,Flamengo,gol,Rossi,9,5.70,6.73,2.28,1.00,-0.10
-10,99623,Atlético-GO,lat,Guilherme Romão,7,3.69,3.01,3.21,12.80,2.20
-10,100079,Atlético-MG,mei,Zaracho,8,8.07,8.76,4.15,6.30,0.70
-10,100084,Atlético-MG,mei,Igor Gomes,7,5.97,5.53,3.55,1.10,-0.56
-10,100085,Fortaleza,mei,Pedro Augusto,7,3.28,3.38,2.13,4.00,0.65
-10,100652,Corinthians,ata,Yuri Alberto,7,9.19,7.21,5.95,1.20,-1.59
-10,100846,Vitória,lat,Lucas Esteves,7,3.33,2.89,2.30,0.00,-0.42
-10,101002,Botafogo,ata,Júnior Santos,9,9.80,8.52,6.32,0.80,-1.19
-10,101314,Bahia,ata,Ademir,7,4.31,4.67,2.43,-0.10,-0.20
-10,101431,Juventude,zag,Danilo Boza,6,5.44,5.84,3.52,7.60,1.46
-10,101573,Grêmio,mei,Pepê,1,6.22,6.11,2.10,-2.00,-1.32
-10,101597,Cuiabá,lat,Ramon,4,7.33,4.48,5.23,3.90,-1.35
-10,101601,Vitória,mei,Caio Vinícius,2,2.89,3.02,0.80,-1.10,-0.62
-10,101666,Atlético-GO,mei,Rhaldney,7,2.97,2.68,1.62,2.90,0.07
-10,101715,Vitória,ata,Alerrandro,7,7.00,6.53,3.46,2.20,-0.77
-10,101726,Cuiabá,lat,Railan,3,3.73,3.36,2.13,8.40,1.43
-10,101728,São Paulo,zag,Diego Costa,8,5.39,4.91,3.57,2.10,-0.17
-10,101752,Criciúma,lat,Claudinho,6,4.16,4.02,2.87,0.00,-0.28
-10,101290,São Paulo,ata,Ferreira,6,8.14,9.01,4.08,0.50,-0.39
-10,101727,Corinthians,lat,Matheuzinho,7,7.54,6.31,5.25,4.50,-0.20
-10,97341,Bahia,tec,Rogério Ceni,8,9.76,9.83,5.36,2.63,-0.43
-10,97640,Vitória,ata,Eryc Castillo,3,1.39,1.70,0.00,8.90,1.98
-10,101960,Bragantino,ata,Vitinho,8,10.41,10.38,6.11,-1.60,-1.17
-10,102130,Palmeiras,lat,Piquerez,8,14.13,11.77,8.45,6.10,-1.47
-10,102253,Botafogo,zag,Lucas Halter,7,6.26,6.79,2.98,0.70,-0.37
-10,102340,Corinthians,zag,Cacá,6,8.23,9.69,4.07,2.90,0.45
-10,102561,Athlético-PR,ata,Mastriani,8,7.51,7.65,4.70,9.00,1.30
-10,102598,Bragantino,ata,Helinho,5,9.90,6.66,6.94,4.50,-1.61
-10,102796,Athlético-PR,ata,Julimar,8,4.22,4.45,2.67,-0.60,-0.22
-10,102878,Fluminense,mei,Terans,3,4.75,5.66,0.23,0.90,-0.42
-10,102906,Cruzeiro,gol,Anderson,8,3.77,2.02,2.81,9.00,0.52
-10,103014,Bragantino,ata,Laquintana,5,3.62,3.96,2.24,0.00,-0.09
-10,103295,Bragantino,mei,Eric Ramires,9,6.41,6.25,4.07,-0.20,-0.50
-10,103347,Cuiabá,lat,Matheus Alexandre,5,4.85,4.52,2.48,7.90,0.86
-10,103684,Athlético-PR,zag,Kaíque Rocha,9,6.63,6.81,4.43,1.20,0.07
-10,103764,Cruzeiro,ata,Gabriel Veron,7,3.38,4.10,1.01,0.90,-0.09
-10,103767,Palmeiras,mei,Gabriel Menino,8,5.06,5.74,2.33,2.70,0.24
-10,103987,Criciúma,mei,Higor Meritão,5,3.74,2.91,3.30,0.90,-0.23
-10,104085,Atlético-MG,zag,Bruno Fuchs,4,4.88,5.43,1.40,3.80,0.10
-10,104257,Juventude,lat,João Lucas,6,5.06,4.76,3.65,7.30,1.13
-10,104276,Fluminense,lat,Calegari,0,3.00,3.00,0.00,3.10,0.93
-10,104385,Internacional,zag,Igor Gomes,3,6.32,5.26,4.90,12.90,2.23
-10,104502,Athlético-PR,mei,Christian,5,5.02,5.80,1.62,0.70,-0.41
-10,104754,Fortaleza,tec,Juan Vojvoda,8,7.93,8.82,4.04,6.66,0.90
-10,104759,Athlético-PR,lat,Leo Godoy,7,6.85,7.62,3.71,4.10,0.57
-10,104994,Vitória,zag,Wagner Leonardo,7,5.37,4.63,2.77,1.20,-0.88
-10,105047,Cruzeiro,zag,João Marcelo,8,4.58,3.41,3.62,7.00,0.61
-10,105373,Bahia,zag,Gabriel Xavier,7,5.62,5.41,3.70,1.20,-0.20
-10,105531,Corinthians,lat,Matheus Bidu,1,6.45,5.22,9.00,0.70,-0.39
-10,105547,Cuiabá,lat,Rikelme,5,4.81,4.66,2.38,5.00,0.32
-10,105568,Fortaleza,ata,Lucero,7,7.58,9.89,1.86,10.10,1.64
-10,105585,Atlético-GO,mei,Roni,3,2.62,2.99,0.40,0.50,-0.23
-10,105811,Internacional,ata,Wesley,7,11.79,9.89,8.47,13.80,1.14
-10,105902,Vasco,mei,Zé Gabriel,5,4.16,3.04,2.12,-0.40,-1.36
-10,105911,Internacional,mei,Rômulo,2,3.73,3.27,2.70,5.70,0.99
-10,106202,Internacional,mei,Bruno Gomes,3,2.30,3.08,-0.40,0.00,-0.24
-10,106323,Bahia,mei,Caio Alexandre,8,7.14,6.34,3.25,0.50,-1.44
-10,106434,Bragantino,zag,Eduardo Santos,6,3.66,4.03,2.00,1.20,0.08
-10,106593,Cruzeiro,zag,Villalba,1,4.51,4.76,0.00,5.00,0.95
-10,106822,São Paulo,mei,Rodrigo Nestor,7,4.71,5.70,1.80,0.00,-0.20
-10,106824,São Paulo,lat,Welington,7,9.27,7.75,7.15,5.10,-0.02
-10,106931,Vasco,ata,Clayton,5,3.16,3.96,1.00,0.70,-0.01
-10,107093,Bahia,lat,Luciano Juba,8,5.75,5.57,3.69,2.40,0.01
-10,107173,São Paulo,mei,Michel Araújo,7,4.25,5.08,1.54,5.40,0.79
-10,107179,Corinthians,gol,Matheus Donelli,0,2.00,2.00,0.00,3.00,0.98
-10,107203,Cuiabá,mei,Max,4,2.05,2.23,1.13,4.20,0.84
-10,107225,Palmeiras,lat,Gustavo Garcia,0,3.00,3.00,0.00,-0.20,-0.36
-10,107236,Palmeiras,lat,Vanderlan,3,8.27,6.07,7.43,0.00,-1.42
-10,107908,Corinthians,lat,Hugo,9,8.08,7.13,5.31,1.90,-0.64
-10,108133,Cuiabá,ata,Isidro Pitta,7,5.92,4.71,3.33,2.20,-0.93
-10,109282,Botafogo,ata,Luiz Henrique,8,11.86,12.77,4.97,0.50,-1.20
-10,109461,Fortaleza,mei,Calebe,0,7.00,7.00,0.00,-0.30,-0.77
-10,109573,Fluminense,mei,Martinelli,7,6.02,6.35,3.06,1.40,-0.24
-10,110506,Palmeiras,tec,Abel Ferreira,9,12.52,12.15,6.44,6.62,-0.44
-10,110667,Fortaleza,ata,Machuca,7,4.27,4.48,2.23,-0.30,-0.41
-10,110668,Athlético-PR,lat,Esquivel,8,8.29,7.82,5.74,-0.80,-0.73
-10,110759,Fluminense,ata,John Kennedy,6,5.48,7.16,1.42,3.40,0.48
-10,110760,Bahia,ata,Biel,8,8.27,9.16,4.08,0.00,-0.45
-10,111309,Grêmio,zag,Gustavo Martins,5,6.65,6.41,4.24,3.40,0.07
-10,111407,Juventude,mei,Luis Mandaca,6,5.20,3.19,3.17,-1.30,-1.99
-10,111578,Corinthians,tec,António Oliveira,9,9.63,9.98,4.80,2.81,-0.42
-10,111760,Palmeiras,mei,Fabinho,4,1.98,2.31,0.30,0.50,-0.24
-10,111945,Botafogo,mei,Diego Hernández,5,3.10,3.96,0.94,4.70,0.88
-10,112869,Palmeiras,mei,Aníbal Moreno,7,6.93,5.30,4.13,4.50,-0.75
-10,112886,Juventude,ata,Lucas Barbosa,7,8.99,8.39,6.67,10.70,1.55
-10,112906,Vasco,mei,Sforza,8,3.38,4.24,1.61,3.90,0.84
-10,113103,Palmeiras,ata,Flaco López,7,6.03,6.36,1.57,0.80,-1.04
-10,113157,Bragantino,lat,Nathan Mendes,5,4.95,5.71,2.60,0.20,-0.08
-10,113158,Fluminense,ata,Marquinhos,8,7.79,7.78,4.76,0.80,-0.41
-10,113311,Criciúma,mei,Baltasar Barcia,2,3.29,2.99,2.95,-0.30,-0.28
-10,113687,Grêmio,mei,Du Queiroz,6,5.12,5.43,2.20,2.00,-0.22
-10,107183,Athlético-PR,gol,Léo Linck,2,4.22,3.69,3.00,0.00,-0.57
-10,114334,Athlético-PR,zag,Gamarra,3,7.77,6.51,6.17,0.00,-1.03
-10,114790,Flamengo,zag,Cleiton,0,2.00,2.00,0.00,0.80,0.13
-10,115239,Flamengo,lat,Wesley,5,4.03,3.43,2.72,2.20,-0.16
-10,115246,Palmeiras,zag,Naves,3,7.33,5.64,6.17,0.90,-0.99
-10,115248,Palmeiras,mei,Jhon Jhon,0,4.00,4.00,0.00,0.00,-0.37
-10,115986,Cuiabá,mei,Denilson,6,2.61,2.48,0.90,3.60,0.13
-10,116447,Fortaleza,mei,Hércules,8,5.25,5.15,3.17,2.40,0.00
-10,116994,Juventude,ata,Popó,3,0.64,1.44,-0.90,0.50,0.20
-10,117314,Bragantino,ata,Thiago Borbas,9,4.29,5.69,1.27,1.20,0.20
-10,117330,Internacional,zag,Robert Renan,4,8.20,7.10,5.87,8.80,0.88
-10,117622,Atlético-GO,ata,Alejo Cruz,7,2.80,2.72,1.53,1.20,-0.11
-10,117632,Corinthians,mei,Garro,8,7.89,7.13,5.13,3.80,-0.19
-10,117711,Bragantino,tec,Pedro Caixinha,9,8.96,9.08,4.82,3.70,-0.16
-10,117909,Corinthians,ata,Wesley,9,6.72,5.98,4.23,4.10,-0.13
-10,118745,Cuiabá,ata,Eliel,3,4.12,3.89,2.63,8.00,1.49
-10,118752,Vasco,mei,Mateus Carvalho,7,5.25,5.37,2.93,2.20,-0.01
-10,122321,Flamengo,mei,Lorran,6,4.44,3.09,4.28,1.00,-0.33
-10,122393,Bragantino,ata,Talisson,1,2.58,2.79,-0.30,0.00,-0.28
-10,122394,Bragantino,mei,Gustavinho,9,3.72,3.30,1.91,1.20,-0.47
-10,122486,Vasco,ata,Rayan,6,3.22,3.24,2.20,0.00,-0.14
-10,122660,Cruzeiro,mei,Japa,2,2.18,2.26,0.90,0.00,-0.19
-10,122887,Atlético-GO,ata,Emiliano Rodríguez,8,4.06,4.03,1.54,2.10,-0.35
-10,123359,Atlético-MG,ata,Cadu,5,2.90,2.09,1.80,2.00,-0.34
-10,123360,Bahia,mei,Cauly,8,7.39,7.83,3.03,1.80,-0.58
-10,123873,Atlético-MG,ata,Palacios,2,2.86,2.91,0.80,9.20,1.99
-10,124239,Bragantino,ata,Henry Mosquera,9,2.98,3.24,1.04,0.50,-0.31
-10,124247,Atlético-MG,ata,Isaac,0,1.00,1.00,0.00,0.80,0.22
-10,124757,Grêmio,ata,Nathan Fernandes,6,2.65,3.27,0.48,1.30,-0.06
-10,125050,Cruzeiro,ata,Robert,4,3.17,2.95,2.10,0.20,-0.34
-10,125469,Atlético-MG,mei,Alisson,7,3.71,4.02,2.09,5.20,0.85
-10,125471,Vasco,ata,Serginho,1,3.24,3.12,1.40,2.00,0.20
-10,126117,Grêmio,ata,Gustavo Nunes,6,3.73,2.44,2.73,1.00,-0.73
-10,126900,Corinthians,mei,Igor Coronado,7,7.42,7.21,3.23,4.20,-0.47
-10,128915,Palmeiras,ata,Estêvão,9,7.01,3.77,6.12,5.80,-0.66
-10,129227,Atlético-GO,mei,Zuleta,1,6.45,4.72,9.70,1.20,-0.55
-10,131512,Botafogo,ata,Yarlen,3,1.73,1.87,0.53,0.00,-0.22
-10,72294,Atlético-MG,gol,Everson,7,9.28,11.00,3.21,-3.00,-1.28
-10,117579,São Paulo,mei,Galoppo,5,4.62,5.83,1.50,1.40,0.11
-10,111682,Vasco,mei,Adson,7,5.15,5.00,2.89,0.50,-0.50
-10,98225,Corinthians,ata,Pedro Raul,5,3.05,3.60,0.76,0.00,-0.39
-10,129766,Atlético-GO,ata,Max,6,2.47,2.15,1.03,0.50,-0.52
-10,78548,Vitória,mei,Jean Mota,5,3.06,4.32,0.24,-0.30,-0.22
-10,102909,Vitória,mei,Luan Vinícius,5,3.40,3.59,0.82,-0.10,-0.74
-10,104118,Vitória,gol,Lucas Arcanjo,8,3.12,3.11,1.43,3.00,0.12
-10,111005,Vitória,mei,Léo Naldi,4,4.93,4.50,3.15,2.60,-0.10
-10,117910,Corinthians,mei,Breno Bidon,7,2.86,2.62,1.95,3.50,0.40
-10,123960,Vitória,ata,Fábio,0,2.00,2.00,0.00,0.50,0.01
-10,128668,São Paulo,ata,William Gomes,1,1.56,1.28,2.10,0.10,-0.11
-10,85034,Botafogo,mei,Óscar Romero,7,6.83,7.36,3.20,1.60,-0.30
-10,86292,Criciúma,ata,Bolasie,6,7.48,6.51,5.88,0.20,-0.61
-10,96673,Atlético-MG,tec,Gabriel Milito,8,8.52,8.77,5.09,4.47,0.35
-10,70449,Juventude,gol,Gabriel,7,3.00,3.64,1.43,7.00,1.37
-10,130414,Atlético-MG,mei,Robert Santos,0,3.00,3.00,0.00,0.50,-0.08
-10,127273,Botafogo,tec,Artur Jorge,9,8.69,7.84,5.89,3.92,-0.15
-10,115914,Flamengo,mei,Evertton Araújo,2,3.67,2.49,3.60,1.20,-0.49
-10,84266,Criciúma,gol,Alisson,3,2.61,2.50,1.83,-1.00,-0.45
-10,93886,Criciúma,mei,Matheusinho,5,5.44,5.08,4.20,0.80,-0.16
-10,103388,Fortaleza,mei,Emmanuel Martínez,2,6.75,6.55,3.20,7.90,1.22
-10,117842,Cruzeiro,mei,Vitinho,4,2.34,2.44,1.17,-0.30,-0.34
-10,104693,Criciúma,mei,Newton,2,1.49,1.30,1.20,10.80,2.63
-10,124821,Fluminense,ata,Kauã Elias,4,1.03,1.45,-0.15,-0.30,-0.22
-10,126977,Cruzeiro,tec,Fernando Seabra,8,8.11,7.85,4.85,7.55,0.62
-10,93702,Juventude,lat,Gabriel Inocêncio,4,3.61,3.34,2.95,6.70,1.34
-10,122413,Vitória,mei,Pablo Baianinho,0,1.00,1.00,0.00,-0.30,-0.21
-10,87242,Bahia,mei,Carlos de Pena,7,2.67,3.53,0.87,0.00,0.01
-10,80337,Criciúma,ata,Arthur Caíke,6,4.20,3.07,2.07,3.40,-0.60
-10,107238,Juventude,ata,Marcelinho,7,3.84,3.58,2.62,1.70,-0.01
-10,115268,Atlético-MG,zag,Rômulo,3,2.17,1.44,1.83,-0.10,-0.54
-10,107256,Athlético-PR,mei,Zé Vitor,4,1.32,2.104,-0.37,0.00,-0.11
-10,129666,Vasco,mei,JP,2,2.49,1.773,2.90,0.00,-0.36
-10,61228,Internacional,gol,Fabrício,2,4.82,4.16,5.00,8.00,1.79
-10,101708,Fortaleza,lat,Felipe Jonatan,4,5.80,6.07,2.93,5.20,0.56
-10,87225,Bragantino,zag,Pedro Henrique,5,7.14,6.27,4.68,1.50,-0.73
-10,100969,Criciúma,mei,Ronald Lopes,3,4.66,4.01,2.77,1.70,-0.45
-10,99366,São Paulo,tec,Luis Zubeldía,6,10.37,10.53,5.87,2.91,-0.35
-10,87391,Criciúma,ata,Allano,1,3.40,3.70,-0.50,3.10,0.54
-10,116065,Botafogo,lat,Cuiabano,7,9.53,6.69,7.82,5.70,-0.54
-10,89141,Cuiabá,tec,Petit,3,6.04,4.38,4.86,7.97,0.67
-10,132733,Botafogo,ata,Fabiano,0,1.00,1.00,0.00,3.90,1.42
-10,130020,Atlético-GO,zag,Luiz Gustavo,0,1.00,1.00,0.00,-0.30,-0.21
-10,106147,Vitória,tec,Thiago Carpini,5,7.78,7.70,3.85,6.73,0.33
-10,132984,Vasco,tec,Álvaro Pacheco,3,8.78,8.42,3.82,1.23,-1.18
-10,133566,Internacional,ata,Lucca Drummond,0,1.00,1.00,0.00,-0.30,-0.21
+4,37656,Fluminense,gol,Fábio,3,11.27,12.02,3.70,7.60,-0.11
+4,39148,Atlético-MG,ata,Hulk,3,18.24,20.62,4.47,0.80,-2.56
+4,42222,Vitória,ata,Osvaldo,1,4.17,4.58,0.00,1.20,-0.14
+4,42234,Cruzeiro,gol,Cássio,3,8.66,9.08,4.77,6.30,0.54
+4,42411,Atlético-MG,tec,Cuca,3,9.85,9.87,5.10,3.23,-0.72
+4,42500,Cruzeiro,lat,Fagner,1,5.50,5.75,0.80,9.90,2.01
+4,51772,Bahia,mei,Everton Ribeiro,2,8.12,9.30,0.15,4.00,-0.18
+4,52271,Internacional,mei,Fernando,2,7.10,7.35,2.70,-0.30,-1.04
+4,52827,Fortaleza,zag,David Luiz,3,9.30,8.75,4.73,2.30,-1.27
+4,61188,Juventude,ata,Gilberto,0,6.00,6.00,0.00,-0.80,-1.09
+4,61987,Flamengo,lat,Alex Sandro,3,12.15,12.72,5.20,4.10,-0.84
+4,63007,Santos,mei,Neymar,1,22.63,23.82,2.60,0.50,-2.91
+4,63289,Grêmio,mei,Edenílson,3,5.78,6.52,2.47,-0.30,-0.60
+4,68685,Internacional,mei,Alan Patrick,2,15.42,16.16,5.10,5.50,-0.78
+4,68708,Cruzeiro,mei,Eduardo,2,5.08,5.97,-0.15,0.00,-0.68
+4,68920,Cruzeiro,ata,Dudu,3,11.20,12.09,5.37,0.00,-1.22
+4,68923,Santos,zag,Gil,3,4.61,5.83,0.23,5.80,0.78
+4,68928,São Paulo,gol,Rafael,3,11.83,12.02,7.40,5.80,0.12
+4,68952,Fortaleza,ata,Marinho,2,7.78,8.05,3.30,0.20,-0.93
+4,68996,Bahia,ata,Willian José,2,9.00,9.99,1.50,0.00,-1.21
+4,69783,Flamengo,zag,Danilo,0,13.00,13.00,0.00,17.10,4.63
+4,70216,Juventude,gol,Gustavo,1,3.58,3.79,0.30,2.30,0.16
+4,70360,Bragantino,ata,Eduardo Sasha,3,8.89,8.26,4.27,5.00,-0.71
+4,70592,Palmeiras,mei,Felipe Anderson,3,7.35,7.67,2.57,1.60,-0.92
+4,70788,Internacional,ata,Enner Valencia,3,7.70,8.30,3.73,3.90,0.07
+4,70916,Fortaleza,lat,Diogo Barbosa,1,7.96,6.98,8.70,10.30,1.88
+4,70944,Internacional,mei,Bruno Henrique,2,7.96,8.04,5.35,2.00,-0.16
+4,70958,Juventude,mei,Jean Carlos,1,5.76,5.88,1.50,-0.30,-0.88
+4,71631,Palmeiras,gol,Weverton,3,8.73,7.34,7.23,7.60,0.38
+4,71684,Palmeiras,zag,Gustavo Gómez,1,11.28,11.14,4.70,3.70,-0.55
+4,71701,Bahia,lat,Santiago Arias,1,7.38,7.69,1.20,0.00,-1.00
+4,72018,Grêmio,gol,Tiago Volpi,3,7.42,8.11,3.10,-3.40,-1.68
+4,72294,Atlético-MG,gol,Everson,3,10.12,11.08,4.23,1.90,-0.75
+4,72460,Atlético-MG,mei,Bernard,3,5.17,6.14,1.23,3.00,0.11
+4,73318,Mirassol,lat,Daniel Borges,2,1.78,1.82,0.55,16.20,3.72
+4,73515,Mirassol,mei,Gabriel,2,7.40,5.85,6.55,1.00,-1.18
+4,74187,Santos,mei,Rincón,0,5.00,5.00,0.00,2.30,0.19
+4,77485,Corinthians,mei,Carrillo,2,7.37,7.78,2.50,1.20,-0.67
+4,77656,São Paulo,lat,Cédric Soares,2,9.95,9.04,7.00,3.50,-0.63
+4,77777,Santos,mei,João Schmidt,3,5.32,5.61,2.03,4.70,0.26
+4,78117,Fluminense,ata,Everaldo,3,3.86,4.64,0.10,-0.30,-0.74
+4,78248,Corinthians,zag,Gustavo Henrique,0,7.00,7.00,0.00,3.20,0.26
+4,78445,Fluminense,lat,Renê,3,7.27,6.56,4.70,20.50,3.49
+4,78850,Mirassol,lat,Reinaldo,3,4.74,6.29,-0.90,17.40,3.29
+4,78855,Fluminense,zag,Thiago Santos,1,6.38,5.69,5.50,4.70,0.36
+4,79066,Mirassol,gol,Alex Muralha,3,1.69,2.10,-0.03,6.80,1.31
+4,79437,Internacional,tec,Roger Machado,3,10.57,10.34,6.45,3.10,-0.70
+4,79631,Fluminense,ata,Cano,3,9.27,10.94,1.40,2.10,-0.88
+4,79701,Cruzeiro,mei,Lucas Silva,2,4.98,5.32,1.05,13.20,2.50
+4,80129,Juventude,mei,Jadson,3,6.01,5.44,3.20,4.90,-0.13
+4,80196,Fortaleza,mei,Yago Pikachu,3,6.75,7.26,3.30,0.00,-0.73
+4,80287,São Paulo,ata,Luciano,3,8.79,10.25,1.97,1.30,-0.86
+4,80313,Bahia,lat,Gilberto,3,8.17,7.75,6.03,1.20,-0.65
+4,80544,Fortaleza,mei,Pol Fernández,2,6.88,7.80,2.15,7.90,1.40
+4,80570,São Paulo,lat,Wendell,3,10.45,11.25,5.03,1.70,-0.75
+4,80583,Sport,mei,Lucas Lima,3,5.78,6.28,2.30,5.50,0.53
+4,81845,São Paulo,mei,Alisson,3,5.98,6.82,1.33,1.60,-0.53
+4,81881,Fortaleza,gol,João Ricardo,3,11.00,10.96,5.60,5.80,-0.36
+4,82627,Flamengo,ata,Luiz Araújo,3,8.64,9.16,4.43,4.60,0.11
+4,83257,Cruzeiro,ata,Gabriel,2,8.38,8.67,4.85,0.00,-0.73
+4,83528,Flamengo,zag,Léo Pereira,3,9.79,10.05,4.40,5.50,-0.23
+4,83817,Mirassol,ata,Clayson,3,6.83,7.53,2.87,0.00,-0.77
+4,84042,Santos,ata,Tiquinho Soares,3,9.81,11.05,3.30,2.10,-0.72
+4,84263,Grêmio,zag,Jemerson,3,4.28,4.76,0.63,7.20,0.84
+4,84558,Cruzeiro,mei,Lucas Romero,3,6.56,6.79,3.37,8.90,1.23
+4,85004,Bahia,gol,Marcos Felipe,0,6.00,6.00,0.00,0.90,-0.46
+4,85048,Corinthians,ata,Memphis Depay,2,17.17,17.70,8.95,2.70,-1.13
+4,85403,Mirassol,mei,Danielzinho,3,4.79,4.34,4.20,9.00,1.62
+4,85856,Vitória,mei,Ricardo Ryller,3,3.52,3.39,1.50,2.70,-0.10
+4,86766,Fortaleza,mei,Matheus Rossetto,1,4.89,4.94,1.50,4.00,0.44
+4,86859,Fortaleza,mei,José Welison,3,4.13,4.95,0.67,0.90,-0.33
+4,87225,Bragantino,zag,Pedro Henrique,3,8.90,7.57,6.13,9.20,0.39
+4,87470,Santos,mei,Thaciano,3,6.42,6.74,3.60,0.00,-0.66
+4,87742,Mirassol,mei,Neto Moura,3,3.70,4.17,0.83,1.50,-0.24
+4,87863,Flamengo,mei,Arrascaeta,2,20.67,18.69,14.15,18.80,1.38
+4,87999,Atlético-MG,mei,Gustavo Scarpa,3,13.86,15.47,4.37,1.90,-1.46
+4,87747,Mirassol,mei,Yago Felipe,0,5.00,5.00,0.00,4.00,0.82
+4,88312,Atlético-MG,zag,Junior Alonso,3,5.37,5.63,2.77,-0.30,-0.70
+4,88323,Corinthians,ata,Ángel Romero,3,6.53,7.52,1.13,3.50,-0.22
+4,88393,Flamengo,lat,Ayrton Lucas,1,7.36,8.18,0.00,9.70,1.93
+4,88479,Cruzeiro,mei,Walace,2,4.36,5.08,-0.05,-0.30,-0.67
+4,88963,Cruzeiro,tec,Leonardo Jardim,3,8.64,8.62,4.81,10.75,1.30
+4,89048,Corinthians,ata,Héctor Hernández,3,5.26,4.84,4.10,0.00,-0.63
+4,89256,Flamengo,mei,Gerson,2,11.46,12.23,3.20,7.90,0.38
+4,89273,Grêmio,lat,João Pedro,2,6.30,6.34,2.05,1.80,-0.63
+4,89275,Cruzeiro,lat,William,2,16.66,15.69,13.40,9.70,0.72
+4,89368,Grêmio,ata,Braithwaite,1,17.09,17.54,4.00,10.90,0.69
+4,89695,Mirassol,ata,Iury Castilho,3,4.52,5.36,1.10,3.80,0.38
+4,89840,São Paulo,ata,Calleri,2,5.39,7.54,-3.00,3.70,0.39
+4,89846,Grêmio,mei,Cristaldo,2,9.29,9.31,3.40,2.00,-1.04
+4,89883,Grêmio,mei,Dodi,1,4.66,4.33,3.20,1.00,-0.40
+4,90285,Flamengo,ata,Bruno Henrique,3,8.00,8.35,4.63,0.00,-0.81
+4,90703,Vitória,mei,Matheuzinho,2,11.92,11.12,6.70,18.10,2.49
+4,90768,Cruzeiro,zag,Fabrício Bruno,3,8.38,9.37,2.10,7.90,0.52
+4,90943,Vitória,zag,Zé Marcos,3,3.30,3.73,0.97,0.50,-0.33
+4,91473,Flamengo,mei,Erick Pulgar,3,7.32,7.82,2.33,8.70,0.79
+4,91573,São Paulo,zag,Arboleda,2,8.99,8.62,6.05,-0.10,-1.11
+4,91607,Atlético-MG,ata,Rony,3,13.69,13.26,8.33,1.90,-1.51
+4,91808,Sport,gol,Caíque França,3,5.34,5.31,3.47,8.10,1.29
+4,91866,Santos,zag,Zé Ivaldo,3,5.39,5.62,2.77,14.70,2.75
+4,91908,Grêmio,ata,Pavón,3,5.88,5.91,2.00,0.90,-0.99
+4,92085,Juventude,ata,Giovanny,2,4.73,3.47,4.50,1.50,-0.66
+4,92087,Atlético-MG,zag,Lyanco,2,6.90,7.01,3.55,2.30,-0.24
+4,92854,Internacional,ata,Borré,3,13.72,15.95,3.10,-0.30,-1.91
+4,92981,Internacional,mei,Ronaldo,3,4.34,4.57,2.10,-0.30,-0.61
+4,93478,Cruzeiro,ata,Wanderson,3,6.96,7.31,2.80,1.90,-0.63
+4,93790,Botafogo,mei,Marlon Freitas,3,6.08,7.78,-0.20,1.20,-0.57
+4,93882,Bragantino,gol,Cleiton,3,6.72,6.01,3.90,14.10,1.92
+4,94044,Botafogo,gol,John,3,12.08,12.60,6.47,0.80,-1.21
+4,94067,Bragantino,mei,Matheus Fernandes,2,5.05,5.47,1.50,5.70,0.80
+4,94154,Corinthians,mei,Maycon,2,4.78,4.97,2.25,0.00,-0.53
+4,94156,Santos,mei,Diego Pituca,3,5.36,5.65,2.77,0.00,-0.61
+4,94207,Santos,ata,Guilherme,3,8.10,6.79,6.97,5.50,0.07
+4,94583,Flamengo,ata,Pedro,0,19.00,19.00,0.00,14.70,2.94
+4,94968,Bragantino,lat,Juninho Capixaba,3,9.57,7.35,9.07,20.20,3.08
+4,95357,Sport,mei,Rivera,3,5.11,4.09,3.73,4.70,-0.02
+4,95464,Botafogo,mei,Gregore,3,7.08,7.73,2.57,3.30,-0.21
+4,95556,Corinthians,mei,Raniele,2,5.22,5.46,1.40,9.20,1.46
+4,95799,Botafogo,ata,Artur,3,9.47,10.19,4.47,5.70,0.25
+4,96340,Fluminense,mei,Lima,3,6.88,6.39,4.83,1.00,-0.72
+4,96610,Cruzeiro,mei,Matheus Pereira,2,16.18,17.07,4.05,4.40,-1.40
+4,96652,Flamengo,mei,Allan,1,3.47,3.74,0.00,-0.60,-0.63
+4,96725,Atlético-MG,lat,Saravia,1,6.39,5.70,6.20,1.40,-0.45
+4,97145,Grêmio,mei,Villasanti,3,12.13,12.58,4.83,4.90,-0.85
+4,97341,Bahia,tec,Rogério Ceni,3,8.19,8.12,4.61,3.36,-0.38
+4,97450,Vitória,ata,Gustavo Mosquito,2,6.04,5.30,4.20,0.40,-0.96
+4,97460,Mirassol,zag,João Victor,3,1.80,1.95,0.77,0.60,-0.08
+4,97642,Corinthians,zag,Félix Torres,1,7.32,6.16,8.80,3.40,-0.05
+4,97900,Internacional,zag,Vitão,3,10.65,9.67,7.30,0.00,-1.69
+4,98022,Bahia,mei,Erick,3,10.40,10.25,7.10,0.40,-1.02
+4,98384,Mirassol,ata,Negueba,0,3.00,3.00,0.00,-1.10,-0.81
+4,98517,Bahia,mei,Jean Lucas,3,6.27,6.04,3.17,3.30,-0.36
+4,98619,Fortaleza,zag,Kuscevic,3,7.37,6.51,4.83,1.50,-1.02
+4,98672,Botafogo,mei,Savarino,3,10.09,11.41,2.73,19.30,3.06
+4,98720,Corinthians,lat,Angileri,1,4.09,4.54,0.00,5.80,1.19
+4,98738,Sport,mei,Titi Ortíz,0,6.00,6.00,0.00,4.70,0.95
+4,98909,Atlético-MG,ata,Cuello,3,8.78,8.92,4.00,0.20,-1.36
+4,98975,Internacional,zag,Rogel,2,7.41,6.27,6.45,2.10,-0.63
+4,99253,Sport,zag,Chico,3,6.07,5.52,4.50,4.20,0.13
+4,99274,Botafogo,zag,Alexander Barboza,3,10.15,10.17,5.67,5.50,-0.10
+4,99366,São Paulo,tec,Luis Zubeldía,3,8.39,7.98,5.61,4.26,-0.14
+4,99392,Flamengo,ata,Michael,3,7.36,7.88,2.87,5.80,0.29
+4,99440,Vitória,mei,Baralhas,2,7.06,6.74,4.50,1.50,-0.57
+4,99552,Flamengo,gol,Rossi,3,7.85,7.58,3.17,6.30,-0.19
+4,99815,Fluminense,mei,Arias,3,15.54,16.74,4.23,13.60,0.40
+4,99818,Palmeiras,ata,Paulinho,1,8.28,8.64,1.30,0.40,-1.01
+4,99889,São Paulo,zag,Alan Franco,3,7.78,8.11,4.50,0.50,-0.68
+4,100084,Atlético-MG,mei,Igor Gomes,2,6.66,5.89,4.00,1.30,-0.97
+4,100652,Corinthians,ata,Yuri Alberto,3,13.24,14.72,5.23,3.50,-0.70
+4,100846,Grêmio,lat,Lucas Esteves,3,5.46,6.20,1.30,4.30,0.18
+4,100898,Botafogo,lat,Vitinho,3,8.70,8.62,5.73,3.00,-0.27
+4,100969,Vitória,mei,Ronald Lopes,1,3.70,4.35,-1.10,-0.10,-0.40
+4,100987,Fluminense,mei,Nonato,0,6.00,6.00,0.00,1.70,-0.17
+4,101290,São Paulo,ata,Ferreira,3,9.27,7.34,6.33,14.30,1.11
+4,101314,Bahia,ata,Ademir,3,5.02,5.18,2.37,0.50,-0.60
+4,101573,Vitória,mei,Pepê,2,6.75,6.43,4.10,-0.60,-1.10
+4,101727,Corinthians,lat,Matheuzinho,2,10.69,10.10,6.95,4.70,-0.29
+4,101752,Vitória,lat,Claudinho,3,5.64,6.08,2.73,0.50,-0.49
+4,101960,Internacional,ata,Vitinho,3,5.61,6.30,1.67,2.30,-0.24
+4,102130,Palmeiras,lat,Piquerez,3,13.95,12.52,9.07,12.00,0.32
+4,102253,Vitória,zag,Lucas Halter,3,4.10,3.34,2.20,1.50,-0.76
+4,97810,Vitória,ata,Erick,3,6.07,5.32,4.60,5.20,0.26
+4,102256,Santos,mei,Rollheiser,3,8.57,10.04,1.83,0.00,-1.13
+4,102318,Atlético-MG,lat,Caio Paulista,1,6.36,6.68,0.80,3.70,0.17
+4,102928,Fluminense,ata,Canobbio,3,6.90,7.83,1.77,2.40,-0.43
+4,102950,Palmeiras,ata,Facundo Torres,3,11.84,11.72,5.27,11.40,0.51
+4,102975,Santos,lat,Escobar,3,8.84,6.78,8.57,10.70,1.05
+4,103295,Bragantino,mei,Eric Ramires,3,6.06,6.25,3.80,3.00,0.13
+4,103347,Sport,lat,Matheus Alexandre,2,4.79,5.23,2.20,1.90,0.12
+4,103388,Fortaleza,mei,Emmanuel Martínez,3,6.34,6.34,4.67,1.30,-0.20
+4,103445,Cruzeiro,ata,Kaio Jorge,2,11.41,9.91,8.50,18.00,2.52
+4,103523,Fluminense,zag,Ignácio,0,6.00,6.00,0.00,5.10,1.10
+4,103767,Atlético-MG,mei,Gabriel Menino,3,6.09,7.00,1.40,1.30,-0.57
+4,104085,Palmeiras,zag,Bruno Fuchs,3,6.39,6.36,3.27,5.50,0.28
+4,104118,Vitória,gol,Lucas Arcanjo,2,8.47,7.03,7.10,2.90,-0.77
+4,104253,Juventude,zag,Adriano Martins,3,6.69,7.05,3.67,0.20,-0.65
+4,104271,Sport,lat,Hereda,3,4.23,3.84,3.90,2.90,0.33
+4,104502,Cruzeiro,mei,Christian,1,5.72,5.86,1.40,8.40,1.56
+4,104519,Grêmio,mei,Camilo,3,4.42,4.09,2.53,1.40,-0.48
+4,104528,Botafogo,ata,Igor Jesus,3,13.66,13.42,7.97,13.00,1.09
+4,104754,Fortaleza,tec,Juan Vojvoda,3,11.41,11.48,6.12,3.97,-0.67
+4,104758,São Paulo,lat,Enzo Díaz,3,8.48,8.29,5.80,1.50,-0.60
+4,104759,Santos,lat,Leo Godoy,1,4.06,4.03,1.60,7.70,1.58
+4,104849,Grêmio,ata,Arezo,2,5.89,5.46,5.45,5.00,0.76
+4,104994,Grêmio,zag,Wagner Leonardo,3,7.05,7.88,1.77,3.90,-0.20
+4,105300,São Paulo,zag,Ferraresi,1,8.76,7.38,10.50,1.70,-0.72
+4,105585,Mirassol,mei,Roni,1,2.79,2.90,0.50,0.00,-0.38
+4,105647,Palmeiras,mei,Maurício,0,14.00,14.00,0.00,0.80,-1.56
+4,105786,Corinthians,ata,Talles Magno,1,7.03,7.52,1.40,3.30,0.16
+4,105842,Vitória,zag,Edu,0,3.00,3.00,0.00,0.00,-0.40
+4,105990,Bahia,zag,Santiago Mingo,3,3.41,4.10,0.37,3.70,0.36
+4,106082,Juventude,lat,Ewerthon,3,6.70,6.61,4.47,2.30,-0.21
+4,106147,Vitória,tec,Thiago Carpini,3,6.37,6.02,3.76,6.03,0.36
+4,106294,São Paulo,mei,Marcos Antônio,3,4.17,4.66,1.90,2.60,0.22
+4,106323,Bahia,mei,Caio Alexandre,3,5.88,6.20,2.23,4.40,0.09
+4,106434,Bragantino,zag,Eduardo Santos,1,6.75,5.88,6.50,9.50,1.63
+4,106593,Cruzeiro,zag,Villalba,1,3.71,3.36,3.00,11.00,2.52
+4,106704,Sport,ata,Carlos Alberto,2,3.87,4.49,0.60,3.00,0.36
+4,107093,Bahia,lat,Luciano Juba,3,8.80,7.20,8.63,4.20,-0.11
+4,107111,Palmeiras,mei,Richard Ríos,2,10.61,10.00,5.80,10.60,0.89
+4,107170,Botafogo,ata,Jeffinho,0,4.00,4.00,0.00,-0.30,-0.64
+4,107172,Botafogo,mei,Patrick de Paula,3,4.95,4.91,2.33,0.80,-0.66
+4,107174,Internacional,mei,Bruno Tabata,1,5.82,5.41,4.00,5.20,0.60
+4,107179,Corinthians,gol,Matheus Donelli,3,5.31,4.52,5.17,0.60,-0.41
+4,107516,Juventude,ata,Ênio,2,3.69,3.53,2.55,0.50,-0.31
+4,105568,Fortaleza,ata,Lucero,3,9.88,11.10,3.57,1.10,-0.90
+4,107554,Atlético-MG,lat,Natanael,3,6.61,6.84,3.30,1.20,-0.60
+4,107726,Sport,ata,Chrystian Barletta,3,5.62,4.63,4.97,3.40,-0.06
+4,107771,Juventude,tec,Fábio Matias,3,6.35,5.10,5.85,1.84,-0.54
+4,107950,Atlético-MG,mei,Fausto Vera,1,9.32,7.66,11.10,3.70,-0.40
+4,108133,Bragantino,ata,Isidro Pitta,2,8.12,8.69,3.65,-0.60,-0.90
+4,108509,Sport,mei,Fabricio Domínguez,3,4.63,5.16,1.17,1.20,-0.45
+4,108683,Palmeiras,mei,Emiliano Martínez,3,5.83,4.37,4.63,2.00,-0.88
+4,108712,Sport,ata,Gustavo Maia,0,2.00,2.00,0.00,1.20,0.18
+4,109096,Flamengo,ata,Plata,3,5.60,6.28,1.67,9.50,1.43
+4,109401,Bahia,ata,Erick Pulga,3,9.10,6.85,7.50,2.10,-1.51
+4,109461,Fortaleza,mei,Calebe,1,5.41,5.20,2.90,0.00,-0.77
+4,109573,Fluminense,mei,Martinelli,3,8.23,8.05,5.60,1.70,-0.53
+4,109899,Juventude,ata,Batalla,3,5.64,5.18,2.67,3.00,-0.55
+4,110311,Corinthians,mei,José Martínez,2,4.25,4.51,1.00,-2.00,-1.15
+4,110426,Internacional,lat,Bernabéi,2,17.30,15.71,13.50,7.10,-0.52
+4,110506,Palmeiras,tec,Abel Ferreira,3,13.23,12.90,6.98,8.44,-0.21
+4,110510,Internacional,lat,Aguirre,3,7.31,6.43,5.93,1.50,-0.65
+4,110715,Bragantino,lat,Andrés Hurtado,3,5.54,4.84,4.13,12.50,2.01
+4,110727,Atlético-MG,mei,Rubens,3,5.93,5.76,3.17,10.00,1.35
+4,110818,Botafogo,tec,Renato Paiva,3,8.47,8.06,6.00,5.93,0.35
+4,111407,Juventude,mei,Luis Mandaca,3,6.99,5.07,6.03,3.90,-0.67
+4,111683,Internacional,gol,Anthoni,3,5.71,4.62,4.73,3.40,-0.23
+4,111831,Botafogo,ata,Matheus Martins,2,5.39,5.61,1.75,6.90,0.92
+4,112709,Cruzeiro,lat,Kaiki Bruno,3,7.41,6.33,6.00,7.90,0.69
+4,112869,Palmeiras,mei,Aníbal Moreno,2,5.52,5.51,1.95,1.20,-0.64
+4,112886,Bragantino,ata,Lucas Barbosa,3,7.47,7.91,4.00,6.60,0.75
+4,113034,Fluminense,zag,Freytes,3,4.00,3.56,2.13,4.70,0.21
+4,113073,Fortaleza,mei,Kervin Andrade,0,4.00,4.00,0.00,1.50,0.03
+4,113078,Fortaleza,lat,Mancuso,2,8.92,7.69,6.60,1.70,-1.15
+4,113462,Sport,ata,Lenny Lobato,3,3.46,3.82,1.17,1.90,-0.04
+4,114802,Palmeiras,ata,Vitor Roque,3,13.81,14.04,5.87,1.30,-2.03
+4,115239,Flamengo,lat,Wesley,3,10.08,10.35,4.20,15.50,1.94
+4,115248,Bragantino,mei,Jhon Jhon,3,7.35,6.96,4.07,5.00,-0.13
+4,115594,Juventude,lat,Marcos Paulo,0,2.00,2.00,0.00,0.00,-0.27
+4,116065,Botafogo,lat,Cuiabano,3,8.79,8.77,5.80,3.20,-0.18
+4,116461,Vitória,lat,Jamerson,3,6.24,5.32,4.93,7.90,0.82
+4,117314,Bragantino,ata,Thiago Borbas,1,2.35,2.68,-0.30,-0.80,-0.47
+4,117910,Corinthians,mei,Breno Bidon,3,9.32,8.96,6.43,0.20,-1.08
+4,118563,São Paulo,mei,Rodriguinho,0,3.00,3.00,0.00,-1.00,-0.77
+4,118758,Botafogo,zag,Jair,3,7.39,7.14,5.23,0.00,-0.83
+4,121792,Grêmio,ata,André,2,3.02,2.98,1.65,1.20,-0.10
+4,121830,Vitória,ata,Janderson,3,3.30,4.16,0.17,9.60,1.82
+4,122861,Juventude,zag,Abner,3,6.54,5.68,5.80,0.00,-0.78
+4,122897,Bragantino,zag,Guzmán Rodríguez,3,6.03,5.67,3.40,6.20,0.38
+4,123788,Fluminense,mei,Lezcano,1,5.61,5.80,2.00,0.00,-0.63
+4,123795,Bahia,ata,Lucho Rodríguez,2,8.91,9.74,3.30,1.80,-0.40
+4,123907,Sport,tec,Pepa,3,6.21,5.86,4.17,4.17,0.11
+4,124239,Bragantino,ata,Henry Mosquera,3,3.82,3.79,1.93,3.10,0.11
+4,124481,Botafogo,lat,Mateo Ponte,2,7.90,7.37,7.05,1.50,-0.30
+4,124526,Palmeiras,lat,Giay,3,7.61,6.26,6.30,11.90,1.47
+4,126471,Santos,mei,Barreal,2,7.94,7.54,6.60,19.50,4.13
+4,126977,Bragantino,tec,Fernando Seabra,3,7.66,6.24,6.26,10.04,0.96
+4,128915,Palmeiras,ata,Estêvão,3,12.44,15.02,1.60,2.90,-1.01
+4,130650,Fluminense,mei,Bernal,2,4.08,4.42,0.70,3.20,0.17
+4,131516,Santos,lat,JP Chermont,2,5.49,5.11,3.60,6.50,0.81
+4,131617,São Paulo,ata,André Silva,3,4.70,5.05,1.20,9.40,1.32
+4,131825,Juventude,mei,Davi Góes,1,2.60,2.80,0.00,0.00,-0.35
+4,132071,Fluminense,ata,Serna,1,5.90,6.45,0.50,1.00,-0.35
+4,132580,Bragantino,ata,Vinicinho,3,6.43,5.91,4.00,0.50,-0.99
+4,139076,Flamengo,tec,Filipe Luís,3,11.84,11.69,6.07,12.81,1.07
+4,140364,Atlético-MG,ata,João Marcelo,2,2.76,2.83,1.00,1.20,-0.11
+4,141160,Sport,mei,Zé Lucas,0,5.00,5.00,0.00,1.50,-0.11
+4,141451,Palmeiras,mei,Allan,0,2.00,2.00,0.00,4.50,1.41
+4,141453,Sport,mei,Atencio,0,5.00,5.00,0.00,2.80,0.38
+4,141754,Santos,mei,Gabriel Bontempo,3,5.38,4.76,4.87,11.80,2.19
+4,141996,Sport,zag,João Silva,3,4.76,4.39,3.80,-1.30,-0.84
+4,142004,Grêmio,ata,Amuzu,3,4.17,4.42,2.07,4.20,0.49
+4,73384,Fluminense,lat,Samuel Xavier,2,11.91,9.65,9.40,5.20,-1.12
+4,86757,Flamengo,ata,Everton,3,10.46,10.82,3.17,2.30,-1.52
+4,123360,Bahia,mei,Cauly,2,7.76,8.07,3.15,1.50,-0.61
+4,104027,Mirassol,tec,Rafael Guanaes,3,4.45,3.88,3.67,7.08,1.03
+4,111594,Palmeiras,zag,Micael,3,5.12,4.68,3.47,4.40,0.22
+4,111760,Bragantino,mei,Fabinho,1,2.97,2.98,1.30,0.20,-0.31
+4,105171,Mirassol,ata,Fabrício Daniel,2,3.49,4.16,-0.05,2.10,0.11
+4,113687,Sport,mei,Du Queiroz,3,2.95,3.08,0.63,0.20,-0.60
+4,107796,Internacional,mei,Diego Rosa,2,2.95,3.43,0.00,1.20,-0.10
+4,103056,Santos,gol,Gabriel Brazão,3,4.24,4.47,1.37,10.20,1.62
+4,107801,Juventude,zag,Natã,0,2.00,2.00,0.00,1.50,0.29
+4,140541,São Paulo,mei,Lucas Ferreira,3,4.07,2.68,3.80,0.00,-1.01
+4,141607,São Paulo,mei,Matheus Alves,3,2.31,2.26,1.40,0.40,-0.22
+4,107958,Juventude,lat,Felipinho,2,3.62,3.61,2.40,-0.40,-0.44
+4,92708,Fortaleza,ata,Deyverson,3,5.43,6.06,1.77,4.70,0.37
+4,124275,Internacional,mei,Gabriel Carvalho,0,6.00,6.00,0.00,0.00,-0.80
+4,85034,Internacional,mei,Óscar Romero,2,7.00,6.72,4.40,0.80,-0.72
+4,94444,Juventude,ata,Matheus Babi,2,5.21,4.17,4.05,1.60,-0.71
+4,104204,Mirassol,ata,Edson Carioca,2,4.26,4.37,2.25,5.20,0.83
+4,132553,Mirassol,zag,Jemmes,3,2.52,2.04,1.87,-0.60,-0.66
+4,91101,Bahia,gol,Ronaldo,3,4.35,4.360,2.47,7.30,1.12
+4,102561,Botafogo,ata,Mastriani,2,6.01,6.89,0.20,1.30,-0.52
+4,104134,Vitória,ata,Fabri,2,3.42,3.68,1.10,4.00,0.58
+4,41929,Fluminense,tec,Renato Gaúcho,2,10.45,9.69,6.56,7.75,0.30
+4,122302,Mirassol,ata,Cristian,2,4.38,3.040,6.25,1.00,-0.33
+4,141525,Fortaleza,zag,Gustavo Mancha,1,3.84,2.42,8.00,0.50,-0.51
+4,133669,Grêmio,ata,Alysson,1,2.61,1.80,4.70,2.80,0.35
+4,143411,Santos,tec,César Sampaio,0,8.05,8.05,0.00,10.27,2.75

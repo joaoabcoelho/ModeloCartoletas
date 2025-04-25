@@ -61,12 +61,12 @@ int main(){
 
   }
 
-  float fator_inflacao = GetFatorInflacao(atletas, rodada);
+  float fator_inflacao = GetFatorInflacao(atletas);
 
   vector<float> erros;
   int n_atletas = atletas.size();
   for(int i=0; i<n_atletas; i++){
-    float previsao = GetValorizacao(atletas[i], rodada, fator_inflacao);
+    float previsao = GetValorizacao(atletas[i], fator_inflacao);
     erros.push_back(previsao - valorizacoes[i]);
     if(abs(erros[i])>0.01){
       cout << names[i] << ": previsão - real = (" << previsao << ") - (" << valorizacoes[i]
